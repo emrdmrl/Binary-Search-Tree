@@ -11,11 +11,11 @@
 -        5 8
 -       1 şeklinde.
 - 3 rakamı yine 7 den küçük olduğu için sola eklenir.
--         7
--      5     8
--   1
--    3 
-  
+         7
+      5     8
+   1
+    3 
+-
 - 6 rakamı için;
 -          7
 -      5       8
